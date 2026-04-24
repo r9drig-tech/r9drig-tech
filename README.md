@@ -59,6 +59,7 @@
 
 | Certificação | Instituição | Ano |
 |---|---|---|
+| Bootcamp Gen IA & Dados | Bradesco & DIO | 2026
 | Databricks Lakehouse Fundamentals | Databricks | 2026 |
 | Fundamentos de Engenharia de Dados | Data Science Academy | 2026 |
 | Data Analytics, Power BI & IA | Xperiun | 2025 |
