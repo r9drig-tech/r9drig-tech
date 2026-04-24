@@ -11,20 +11,17 @@ Me chamo Rodrigo Gonçalves Salgado, Brasiliense, um profissional com Deficiênc
 experiência nas áreas administrativa e analítica, especializado em Análise de 
 Dados, Power BI e Gestão de Processos.
 
----
-
 🔇 Profissional com **Deficiência Auditiva** (CID H90.3) — Comunicação preferencial por texto/WhatsApp.     
 📍 Brasília – DF | Disponível: **Remoto / Híbrido**.
 
 ---
 
-## 🚀 Pós-Graduação & Especialização
-  
+## 🚀 Pós-Graduação & Especialização       
 🎓 Pós-graduando em **Engenharia de Dados & Inteligência Artificial** (Anhanguera, prev. 2027)  
 🛠️ Formação Técnica em **Data Analytics, Power BI & Inteligência Artificial** (Xperiun)  
 🎓 Graduado em **Gestão de Processos Gerenciais** (UDF) 
 
-🏅Certificações
+## 🏅Certificações      
 **Databricks Lakehouse Fundamentals**, 
 **Big Data & Analytics** e **Business Intelligence** (FIAP)  
 
