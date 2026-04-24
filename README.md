@@ -2,54 +2,42 @@
 <h1>🖥️ Rodrigo Salgado</h1>
 <img src="banner.gif" width="400px" align="right">
 
-``Análise de Dados com ênfase em Power BI``
+``Analista de BI & Dados``
 
 🧠 Em transição para **Engenheiro de Dados & IA**: Databricks, Python, Big Data .        
-🔇 PcD Auditivo (CID H90.3) | Remoto/Híbrido | Brasília-DF.
-
+## 🧑🏽‍💻 Sobre mim
+ 
+Sou **Analista de BI e Dados** com mais de **15 anos de experiência** em análise de dados, Power BI e gestão de processos — sempre conectando o técnico ao estratégico.
+ 
+Tenho forte domínio de **DAX, Power Query e modelagem de dados**, com visão de **UX/UI aplicada a dashboards** (dado bonito *e* funcional).     
+Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev. 2027), expandindo minha capacidade técnica do dado bruto ao insight.
+ 
+🤟 Bilíngue em **Libras** — perspectiva única em acessibilidade e inclusão de dados.
+ 
 ---
-[![Skills](https://skillicons.dev/icons?i=python,git,github,figma,vscode,azure,mysql,postgres)](https://skillicons.dev)
-
+ 
+## 🛠️ Stack Técnica
+ 
+### 📊 BI & Visualização — *especialidade principal*
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
----
-
-## 🚀 Sobre mim
-
-Me chamo Rodrigo Gonçalves Salgado, Brasiliense, Profissional com Deficiência Auditiva com mais de 15 anos de 
-experiência nas áreas administrativa e analítica, especializado em Análise de 
-Dados, Power BI e Gestão de Processos.
-
----
-
-## 🧑🏽‍💻 Competência Técnicas
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ⭐⭐⭐⭐⭐    
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  ⭐⭐⭐⭐    
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  ⭐⭐⭐⭐       
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  ⭐⭐⭐⭐     
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ⭐⭐⭐⭐     
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) ⭐⭐⭐⭐       
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)   ⭐⭐⭐⭐     
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ⭐⭐     
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)  ⭐⭐       
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  🔧         
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)🤖
-       
-
-| 📊 BI & Visualização | 🐍 Dev & Automação | 🗄️ Dados & Cloud | 🤖 Inteligência Artificial |
-|---|---|---|---|
-| Power BI (DAX + Power Query) | Python (Pandas, automação) | Databricks Lakehouse | IA Generativa (Prompts & LLMs) |
-| Figma (UX/UI de dashboards) | VBA  | SQL  | Análise Preditiva |
-| ETL & Modelagem de Dados | Git & GitHub | Big Data & Analytics | Machine Learning em BI |
+ 
+### 🗄️ Dados & Automação
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ 
+### 🚀 Em evolução — *pós-graduação em andamento*
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ---
 
@@ -66,6 +54,20 @@ Dados, Power BI e Gestão de Processos.
 🔹 **Análise de Performance** → Indicadores de vendas, estoque e planejamento comercial
 
 > 🚧 *Portfólio público em construção — em breve projetos próprios serão publicados aqui!*
+
+
+## 📌 Projetos
+ 
+> 💼 Desenvolvidos em ambiente corporativo ao longo da trajetória profissional. Portfólio público em construção.
+ 
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 📊 **Dashboard de Vendas** | Performance comercial com KPIs de faturamento, metas e tendências | Power BI · DAX · Pyhton |
+| 👥 **Dashboard RH** | Contratações, demissões e headcount com visão temporal | Power BI · DAX · Pyhton  |
+| ♿ **Dashboard PcD** | Indicadores de inclusão e acompanhamento de pessoas com deficiência | Power BI · DAX · Pyhton  |
+| 🎫 **Dashboard Service Desk** | Indicadores operacionais de chamados e SLA (Citsmart) | Power BI · SQL |
+| 🤖 **Automação de Relatórios** | Tratamento e geração automática de relatórios CSV | Python · VBA |
+| 🎨 **UX/UI para BI** | Prototipagem de interfaces de dashboards com foco em usabilidade | Figma |
 
 ---
 
@@ -85,7 +87,7 @@ Dados, Power BI e Gestão de Processos.
 🛠️ Formação Técnica em **Data Analytics, Power BI & Inteligência Artificial** (Xperiun)  
 🎓 Graduado em **Gestão de Processos Gerenciais** (UDF) 
 
-## 🏅 Certificações   
+## 🏅 Certificações adicionais   
 📚 **Lakehouse Fundamentals** (Databricks)          
 📊 **Big Data & Analytics** e **Business Intelligence** (FIAP)             
 🤖 **Bootcamp Gen IA & Dados** (Bradesco & DIO)   
