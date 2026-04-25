@@ -1,15 +1,16 @@
+## 🖥️ Rodrigo Salgado ## 
 
-<h1>🖥️ Rodrigo Salgado</h1>
 <img src="banner.gif" width="400px" align="right">
 
 ``Analista de BI & Dados``
 
-🧠 Em transição para **Engenheiro de Dados & IA**: Databricks, Python, Big Data .        
-## 🧑🏽‍💻 Sobre mim
- 
+🧠 Em transição para **Engenheiro de Dados & IA**: Databricks, Python, Big Data.     
+
+--- 
+🧑🏽‍💻 **Quem Sou Eu?**     
 Sou **Analista de BI e Dados** com mais de **15 anos de experiência** em análise de dados, Power BI e gestão de processos — sempre conectando o técnico ao estratégico.
- 
-Tenho forte domínio de **DAX, Power Query e modelagem de dados**, com visão de **UX/UI aplicada a dashboards** (dado bonito *e* funcional).     
+Tenho forte domínio de **DAX, Power Query e modelagem de dados**, com visão de **UX/UI aplicada a dashboards** (dado bonito *e* funcional). 
+
 Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev. 2027), expandindo minha capacidade técnica do dado bruto ao insight.
  
 🤟 Bilíngue em **Libras** — perspectiva única em acessibilidade e inclusão de dados.
@@ -75,7 +76,7 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 
 <div align="center">
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r9drig-tech&theme=tokyonight)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r9drig-tech&theme=tokyonight)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r9drig-tech&theme=tokyonight)
 
 </div>
