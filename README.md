@@ -74,13 +74,12 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r9drig-tech&theme=tokyonight)
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r9drig-tech&theme=tokyonight)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r9drig-tech&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r9drig-tech&theme=tokyonight&hide_border=true)
 
-</div>
-       
+
 ---
 
 ## 🚀 Pós-Graduação & Especialização       
