@@ -42,24 +42,9 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 
 ---
 
-## 📌 Projetos em Destaque
-
-> 💼 *Todos os projetos abaixo foram desenvolvidos em ambiente corporativo durante minha trajetória profissional.*
-
-🔹 **Dashboard PcD** → Indicadores voltados à inclusão e acompanhamento de pessoas com deficiência  
-🔹 **Dashboard Vendas Comercial** → Análise de performance comercial com KPIs de vendas  
-🔹 **Dashboard RH** → Painel de contratações e demissões com visão temporal  
-🔹 **Dashboard Citsmart** → Indicadores operacionais de chamados e service desk  
-🔹 **Automação de Processos** → Scripts Python + VBA para tratamento e geração de relatórios CSV  
-🔹 **UX/UI em BI** → Prototipagem de interfaces de dashboards com Figma  
-🔹 **Análise de Performance** → Indicadores de vendas, estoque e planejamento comercial
-
-> 🚧 *Portfólio público em construção — em breve projetos próprios serão publicados aqui!*
-
-
 ## 📌 Projetos
  
-> 💼 Desenvolvidos em ambiente corporativo ao longo da trajetória profissional. Portfólio público em construção.
+> 💼 *Todos os projetos abaixo foram desenvolvidos em ambiente corporativo durante minha trajetória profissional.*
  
 | Projeto | Descrição | Stack |
 |---|---|---|
@@ -70,15 +55,7 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 | 🤖 **Automação de Relatórios** | Tratamento e geração automática de relatórios CSV | Python · VBA |
 | 🎨 **UX/UI para BI** | Prototipagem de interfaces de dashboards com foco em usabilidade | Figma |
 
----
-
-## 📊 Estatísticas do GitHub
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r9drig-tech&theme=tokyonight)
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r9drig-tech&theme=tokyonight)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r9drig-tech&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r9drig-tech&theme=tokyonight&hide_border=true)
-
+> 🚧 *Portfólio público em construção — em breve projetos próprios serão publicados aqui!*
 
 ---
 
@@ -128,6 +105,15 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 ![Gestão de Operações e Logística](https://img.shields.io/badge/✅%20Gestão%20de%20Operações%20%26%20Logística-005A9C?style=for-the-badge)
 ![Marketing e Relações com o Mercado](https://img.shields.io/badge/✅%20Marketing%20%26%20Relações%20com%20Mercado-005A9C?style=for-the-badge)
 ![Gestão de Pessoas e Liderança](https://img.shields.io/badge/✅%20Gestão%20de%20Pessoas%20%26%20Liderança-005A9C?style=for-the-badge)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r9drig-tech&theme=tokyonight)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=r9drig-tech&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r9drig-tech&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=r9drig-tech&theme=tokyonight&hide_border=true)
 
 ---
 
