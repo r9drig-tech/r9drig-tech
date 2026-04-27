@@ -1,13 +1,15 @@
 ## 🖥️ Rodrigo Salgado ## 
 
-<img src="banner.gif" width="400px" align="right">
+<img src="banner.gif" width="500px" align="right">
 
 ``Analista de BI & Dados``
 
 🧠 Em transição para **Engenheiro de Dados & IA**: Databricks, Python, Big Data.     
 
 --- 
-🧑🏽‍💻 **Quem Sou Eu?**     
+
+🧑🏽‍💻 **Quem Sou Eu?** 
+
 Sou **Analista de BI e Dados** com mais de **15 anos de experiência** em análise de dados, Power BI e gestão de processos — sempre conectando o técnico ao estratégico.
 Tenho forte domínio de **DAX, Power Query e modelagem de dados**, com visão de **UX/UI aplicada a dashboards** (dado bonito *e* funcional). 
 
