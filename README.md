@@ -10,7 +10,7 @@
 
 🧑🏽‍💻 **Quem Sou Eu?** 
 
-Sou **Analista de BI e Dados** com mais de **15 anos de experiência** em análise de dados, Power BI e gestão de processos — sempre conectando o técnico ao estratégico.
+Sou **Analista de BI e Dados** com mais de **10 anos de experiência** em análise de dados, Power BI e gestão de processos — sempre conectando o técnico ao estratégico.
 Tenho forte domínio de **DAX, Power Query e modelagem de dados**, com visão de **UX/UI aplicada a dashboards** (dado bonito *e* funcional). 
 
 Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev. 2027), expandindo minha capacidade técnica do dado bruto ao insight.
@@ -52,11 +52,13 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 |---|---|---|
 | 📊 **Dashboard de Vendas** | Performance comercial com KPIs de faturamento, metas e tendências | Power BI · DAX · Pyhton |
 | 👥 **Dashboard RH** | Contratações, demissões e headcount com visão temporal | Power BI · DAX · Pyhton  |
-| ♿ **Dashboard PcD** | Indicadores de inclusão e acompanhamento de pessoas com deficiência | Power BI · DAX · Pyhton  |
-| 🎫 **Dashboard Service Desk** | Indicadores operacionais de chamados e SLA (Citsmart) | Power BI · SQL |
+| ♿ **Dashboard Inclusão PCD** | Indicadores de inclusão e acompanhamento de pessoas com deficiência | Power BI · DAX · Pyhton  |
+| 🎫 **Dashboard Projetos / Chatbot** | Indicadores operacionais de chamados e SLA (Citsmart) | Power BI · SQL |
 | 🤖 **Automação de Relatórios** | Tratamento e geração automática de relatórios CSV | Python · VBA |
 | 🎨 **UX/UI para BI** | Prototipagem de interfaces de dashboards com foco em usabilidade | Figma |
-
+| 🔄 **Automação n8n + WhatsApp** | Fluxo automatizado para envio de resultados do Power BI via WhatsApp | n8n · API WhatsApp · Power BI|
+| 🤖 **Do Prompt ao Agente** | Construção de agentes inteligentes que recebem prompts, processam dados e enviam resultados do Power BI automaticamente pelo WhatsApp | Python · Inteligência Artificial · Power BI · n8n · API WhatsApp|
+| 🧭 **Automação de Busca de Vagas** | Integração com APIs para coleta e filtragem de vagas de emprego | Python · API
 > 🚧 *Portfólio público em construção — em breve projetos próprios serão publicados aqui!*
 
 ---
@@ -69,7 +71,8 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 ## 🏅 Certificações adicionais   
 📚 **Lakehouse Fundamentals** (Databricks)          
 📊 **Big Data & Analytics** e **Business Intelligence** (FIAP)             
-🤖 **Bootcamp Gen IA & Dados** (Bradesco & DIO)   
+🤖 **Bootcamp Gen IA & Dados** (Bradesco & DIO) 
+🤖 **Imersão de Inteligência Artificial** (DataDriven)
 
 ---
 
@@ -77,9 +80,9 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 
 > ⚙️ **Pós-graduação em Engenharia de Dados e IA** — Faculdade Anhanguera | EAD | 360h | Em andamento (prev. 2027)
 
-![Engenharia de Dados na Prática](https://img.shields.io/badge/📚%20Engenharia%20de%20Dados%20na%20Prática-FF6B35?style=for-the-badge)
-![Linguagens de programação para ciência de dados](https://img.shields.io/badge/📚%20Linguagens%20de%20Programação%20para%20Ciência%20de%20Dados-FF6B35?style=for-the-badge)
-![Databricks - Fundamentos e Práticas com Spark e Delta](https://img.shields.io/badge/📚%20Databricks%20–%20Spark%20e%20Delta-FF6B35?style=for-the-badge)
+![Engenharia de Dados na Prática](https://img.shields.io/badge/✅%20Engenharia%20de%20Dados%20na%20Prática-FF6B35?style=for-the-badge)
+![Linguagens de programação para ciência de dados](https://img.shields.io/badge/✅%20Linguagens%20de%20Programação%20para%20Ciência%20de%20Dados-FF6B35?style=for-the-badge)
+![Databricks - Fundamentos e Práticas com Spark e Delta](https://img.shields.io/badge/✅%20Databricks%20–%20Spark%20e%20Delta-FF6B35?style=for-the-badge)
 ![Azure - Fundamentos e Práticas em ETL com Fabric](https://img.shields.io/badge/📚%20Azure%20–%20ETL%20com%20Fabric-FF6B35?style=for-the-badge)
 ![AWS - Fundamentos e Práticas em ETL com dbt Core](https://img.shields.io/badge/📚%20AWS%20–%20ETL%20com%20dbt%20Core-FF6B35?style=for-the-badge)
 ![GCP - Fundamentos e Práticas em ETL com Airflow](https://img.shields.io/badge/📚%20GCP%20–%20ETL%20com%20Airflow-FF6B35?style=for-the-badge)
@@ -121,7 +124,7 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 
 ## 💡 Diferenciais
 
-✨ **15+ anos** combinando dados, processos e resultado de negócio  
+✨ **10+ anos** combinando dados, processos e resultado de negócio  
 ✨ Domínio de **Power BI** com DAX avançado e Power Query  
 ✨ Visão de **UX/UI** aplicada a dashboards — dado bonito e funcional  
 
