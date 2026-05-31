@@ -51,15 +51,14 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 | Projeto | Descrição | Stack |
 |---|---|---|
 | 📊 **Dashboard de Vendas** | Performance comercial com KPIs de faturamento, metas e tendências | Power BI · DAX · Pyhton |
-| 👥 **Dashboard RH** | Contratações, demissões e headcount com visão temporal | Power BI · DAX · Pyhton  |
-| ♿ **Dashboard Inclusão PCD** | Indicadores de inclusão e acompanhamento de pessoas com deficiência | Power BI · DAX · Pyhton  |
+| 👥 **Dashboard RH** | Contratações, demissões e headcount com visão temporal | Power BI · DAX · Python  |
+| ♿ **Dashboard Inclusão PCD** | Indicadores de inclusão e acompanhamento de pessoas com deficiência | Power BI · DAX · Python |
 | 🎫 **Dashboard Projetos / Chatbot** | Indicadores operacionais de chamados e SLA (Citsmart) | Power BI · SQL |
 | 🤖 **Automação de Relatórios** | Tratamento e geração automática de relatórios CSV | Python · VBA |
 | 🎨 **UX/UI para BI** | Prototipagem de interfaces de dashboards com foco em usabilidade | Figma |
-| 🔄 **Automação n8n + WhatsApp** | Fluxo automatizado para envio de resultados do Power BI via WhatsApp | n8n · API WhatsApp · Power BI|
+| 🔄 **Automação n8n + WhatsApp** | Fluxo automatizado para envio de resultados do Power BI via WhatsApp | n8n · API WhatsApp · Power BI|km
 | 🤖 **Do Prompt ao Agente** | Construção de agentes inteligentes que recebem prompts, processam dados e enviam resultados do Power BI automaticamente pelo WhatsApp | Python · Inteligência Artificial · Power BI · n8n · API WhatsApp|
-| 🧭 **Automação de Busca de Vagas** | Integração com APIs para coleta e filtragem de vagas de emprego | Python · API
-> 🚧 *Portfólio público em construção — em breve projetos próprios serão publicados aqui!*
+| 🧭 **Automação de Busca de Vagas** | Integração com APIs para coleta e filtragem de vagas de emprego | Python · API |
 
 ---
 
@@ -139,7 +138,7 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 ## 🌐 Conecte-se comigo
 
 <p align="left">
-<a href="https://linkedin.com/in/r9drig-power-bi/">
+<a href="https://linkedin.com/in/rodrigo-salgado-bi/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
