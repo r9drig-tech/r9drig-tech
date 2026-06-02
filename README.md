@@ -2,7 +2,7 @@
 
 <img src="banner.gif" width="500px" align="right">
 
-``Analista de BI & Dados``
+``Analista de BI | Power BI | SQL | Python | Data Analytics``
 
 🧠 Em transição para **Engenheiro de Dados & IA**: Databricks, Python, Big Data.     
 
