@@ -29,12 +29,20 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
  
-### 🗄️ Dados & Automação
+### 🗄️ Linguagens & Automação
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
- 
+
+### 🤖 Inteligência Artificial & Ferramentas Visuais
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude.ai-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-FF6F00?style=for-the-badge&logo=ollama&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4AAA?style=for-the-badge&logo=n8n&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-0062AD?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ### 🚀 Em evolução — *pós-graduação em andamento*
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
