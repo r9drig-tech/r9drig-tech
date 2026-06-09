@@ -10,7 +10,7 @@
 
 🧑🏽‍💻 **Quem Sou Eu?** 
 
-Sou **Analista de BI e Dados** com mais de **10 anos de experiência** em análise de dados, Power BI e gestão de processos — sempre conectando o técnico ao estratégico.
+Sou **profissional Business Intelligence** com mais de **10 anos de experiência** em análise de dados, Power BI e gestão de processos — sempre conectando o técnico ao estratégico.
 Tenho forte domínio de **DAX, Power Query e modelagem de dados**, com visão de **UX/UI aplicada a dashboards** (dado bonito *e* funcional). 
 
 Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev. 2027), expandindo minha capacidade técnica do dado bruto ao insight.
