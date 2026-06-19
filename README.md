@@ -137,12 +137,13 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 ✨ **10+ anos** combinando dados, processos e resultado de negócio  
 ✨ Domínio de **Power BI** com DAX avançado e Power Query  
 ✨ Visão de **UX/UI** aplicada a dashboards — dado bonito e funcional  
+✨ Integração com **Inteligência Artificial**
 
 ---
 
 ## 🌍 Idiomas
 
-🇧🇷 Português (nativo) | 🤟 Libras | 🇺🇸 Inglês (básico)
+🇧🇷 Português (nativo) | 🤟 Libras | 🇺🇸 Inglês (básico-intermediário)
 
 ---
 
