@@ -78,11 +78,11 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 🎓 Graduado em **Gestão de Processos Gerenciais** (UDF) 
 
 ## 🏅 Certificações adicionais   
-📚 **Lakehouse Fundamentals** (Databricks)          
-📊 **Big Data & Analytics** e **Business Intelligence** (FIAP)             
-🤖 **Bootcamp Gen IA & Dados** (Bradesco & DIO) 
-🤖 **Imersão de Inteligência Artificial** (DataDriven)
-🤖 **Bootcamp Inteligência Artificial Aplicada a Vendas** (Heineken & DIO)
+📚 **Lakehouse Fundamentals** (Databricks)           
+📊 **Big Data & Analytics** e **Business Intelligence** (FIAP)              
+🤖 **Bootcamp Gen IA & Dados** (Bradesco & DIO)              
+🤖 **Imersão de Inteligência Artificial** (DataDriven)              
+🤖 **Bootcamp Inteligência Artificial Aplicada a Vendas** (Heineken & DIO) 
 
 ---
 
