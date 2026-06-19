@@ -67,6 +67,8 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 | 🔄 **Automação n8n + WhatsApp** | Fluxo automatizado para envio de resultados do Power BI via WhatsApp | n8n · API WhatsApp · Power BI|km
 | 🤖 **Do Prompt ao Agente** | Construção de agentes inteligentes que recebem prompts, processam dados e enviam resultados do Power BI automaticamente pelo WhatsApp | Python · Inteligência Artificial · Power BI · n8n · API WhatsApp|
 | 🧭 **Automação de Busca de Vagas** | Integração com APIs para coleta e filtragem de vagas de emprego | Python · API |
+| 🤖 **Bootcamp Gen IA & Dados** | Desenvolva uma aplicação que conversa por voz com o ChatGPT usando Whisper (OpenAI) e Python | Python · Power BI · Microsoft Copilot · SQL · Inteligência Artificial (IA) · IA Generativa · Banco de dados relacional · Banco de Dados · Excel |
+| 🤖 **Inteligência Artificial Aplicada a Vendas** |  IA para planejar abordagens comerciais e aplicar Chatbot nas vendas do dia a dia | AI Agents · Engenharia de Prompt · Inteligência Artificial (IA) |
 
 ---
 
@@ -80,6 +82,7 @@ Atualmente em **Pós-graduação em Engenharia de Dados & IA** (Anhanguera, prev
 📊 **Big Data & Analytics** e **Business Intelligence** (FIAP)             
 🤖 **Bootcamp Gen IA & Dados** (Bradesco & DIO) 
 🤖 **Imersão de Inteligência Artificial** (DataDriven)
+🤖 **Bootcamp Inteligência Artificial Aplicada a Vendas** (Heineken & DIO)
 
 ---
 
